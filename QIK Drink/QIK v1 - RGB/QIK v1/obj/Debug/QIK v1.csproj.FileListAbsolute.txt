@@ -1,0 +1,18 @@
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1\QIK v1\bin\Debug\QIK v1.exe.config
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1\QIK v1\bin\Debug\QIK v1.exe
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1\QIK v1\bin\Debug\QIK v1.pdb
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1\QIK v1\obj\Debug\QIK v1.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1\QIK v1\obj\Debug\QIK_v1.Form1.resources
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1\QIK v1\obj\Debug\QIK_v1.Properties.Resources.resources
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1\QIK v1\obj\Debug\QIK v1.csproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1\QIK v1\obj\Debug\QIK v1.exe
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1\QIK v1\obj\Debug\QIK v1.pdb
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1 - RGB\QIK v1\bin\Debug\QIK v1.exe.config
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1 - RGB\QIK v1\obj\Debug\QIK v1.exe
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1 - RGB\QIK v1\obj\Debug\QIK v1.pdb
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1 - RGB\QIK v1\bin\Debug\QIK v1.exe
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1 - RGB\QIK v1\bin\Debug\QIK v1.pdb
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1 - RGB\QIK v1\obj\Debug\QIK v1.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1 - RGB\QIK v1\obj\Debug\QIK_v1.Form1.resources
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1 - RGB\QIK v1\obj\Debug\QIK_v1.Properties.Resources.resources
+C:\Users\Samuel\Desktop\QIK Drink\QIK v1 - RGB\QIK v1\obj\Debug\QIK v1.csproj.GenerateResource.Cache

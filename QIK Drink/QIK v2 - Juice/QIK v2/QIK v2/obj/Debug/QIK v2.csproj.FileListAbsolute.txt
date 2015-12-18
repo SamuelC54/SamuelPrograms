@@ -1,0 +1,18 @@
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2\QIK v2\QIK v2\bin\Debug\QIK v2.exe.config
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2\QIK v2\QIK v2\bin\Debug\QIK v2.exe
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2\QIK v2\QIK v2\bin\Debug\QIK v2.pdb
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2\QIK v2\QIK v2\obj\Debug\QIK v2.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2\QIK v2\QIK v2\obj\Debug\QIK_v2.Form1.resources
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2\QIK v2\QIK v2\obj\Debug\QIK_v2.Properties.Resources.resources
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2\QIK v2\QIK v2\obj\Debug\QIK v2.csproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2\QIK v2\QIK v2\obj\Debug\QIK v2.exe
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2\QIK v2\QIK v2\obj\Debug\QIK v2.pdb
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2 - Juice\QIK v2\QIK v2\bin\Debug\QIK v2.exe.config
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2 - Juice\QIK v2\QIK v2\obj\Debug\QIK v2.exe
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2 - Juice\QIK v2\QIK v2\obj\Debug\QIK v2.pdb
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2 - Juice\QIK v2\QIK v2\obj\Debug\QIK v2.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2 - Juice\QIK v2\QIK v2\obj\Debug\QIK_v2.Form1.resources
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2 - Juice\QIK v2\QIK v2\obj\Debug\QIK_v2.Properties.Resources.resources
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2 - Juice\QIK v2\QIK v2\obj\Debug\QIK v2.csproj.GenerateResource.Cache
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2 - Juice\QIK v2\QIK v2\bin\Debug\QIK v2.exe
+C:\Users\Samuel\Desktop\QIK Drink\QIK v2 - Juice\QIK v2\QIK v2\bin\Debug\QIK v2.pdb
