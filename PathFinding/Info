@@ -1,0 +1,19 @@
+
+Source
+	http://www.redblobgames.com/pathfinding/tower-defense/
+	http://www.redblobgames.com/pathfinding/a-star/introduction.html
+
+Type of algorithm
+
+	Breadth First Search
+
+	One source, one destination:
+		Greedy Best First Search
+		A* - commonly used in games
+	One source, all destinations, or all sources, one destination:
+		Breadth First Search - unweighted edges
+		Dijkstra’s Algorithm - adds weights to edges
+		Bellman-Ford - supports negative weights
+	All sources, all destinations:
+		Floyd-Warshall
+		Johnson’s Algorithm
